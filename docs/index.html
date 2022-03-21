@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Docker Application Examples</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="description" content="Description">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+  <link rel="shortcut icon" href="./src/images/Favicon.ico" />
+  <link rel="stylesheet" href="./src/themes/vue.css">
+</head>
+<body>
+  <div id="app">Carregando...</div>
+  <script>
+    window.$docsify = {
+      name: 'Docs',
+      repo: '',
+      auto2top   : true,
+      maxLevel   : 3,
+      subMaxLevel: 3,
+      // Cabeçalho
+      autoHeader: false,
+      // Homepage
+      homepage: './markdown/pages/home.md',
+      // Coverpage
+      coverpage: './markdown/template/coverpage.md',
+      // Navbar
+      loadNavbar: false,
+      // Sidebar
+      loadSidebar: './markdown/template/sidebar.md',
+      // Not Found Page
+      notFoundPage: './markdown/template/404.md',
+      search: 'auto', // template
+      // Pesquisar
+      search: {
+        placeholder: 'Pesquisar',
+        noData: 'Não a Resultados!', 
+      },
+      // Pagination
+        pagination: {
+        previousText: 'Anterior',
+        nextText: 'Proximo',
+        crossChapter: true,
+        crossChapterText: true,
+      },
+    }
+  </script>
+  <!-- Docsify v4 -->
+  <script src="./src/docsify@4.js"></script>
+  <!-- Themes -->
+
+  <!-- Plugins -->
+  <script src="./src/plugins/search.js"></script>
+  <script src="./src/plugins/docsify-pagination.min.js"></script>
+  <script src="./src/plugins/docsify-copy-code.js"></script>
+  <script src="./src/plugins/zoom-image.min.js"></script>
+  <script src="https://kit.fontawesome.com/504d2134c4.js" crossorigin="anonymous"></script>
+</body>
+</html>
