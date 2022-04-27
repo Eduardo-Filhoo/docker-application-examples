@@ -5,7 +5,7 @@ Markdown é uma linguagem simples de marcação originalmente criada por John Gr
 <details>
 <summary>Click Para ver a Imagem</summary>
 
-![Markdown Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1200px-Markdown-mark.svg.png ':size=600')
+![Markdown Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1200px-Markdown-mark.svg.png ':size=250')
   
 </details>
 
