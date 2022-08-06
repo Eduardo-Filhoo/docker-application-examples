@@ -2,8 +2,9 @@
 
 - **Getting started**
 
-  - [Introdução](/markdown/pages/home.md)
+  - [Introdução](/markdown/pages/started/home.md)
+  - [Configuração](/markdown/pages/started/configs/configuracao.md)
 
 - **Containers**
   
-  - [Adguard](/markdown/pages/adguard/adguard.md)  
+  - [Adguard](/markdown/pages/containers/adguard/adguard.md)
