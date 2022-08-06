@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="450" src="/src/utils/adguard/logo.svg" alt="Adguard Logo">
+  <img width="450" src="./src/utils/adguard/logo.svg" alt="Adguard Logo">
 </p>
 
 <!-- <h1 align="center">Adguard</h1> -->
@@ -85,5 +85,5 @@ volumes:
 </details> -->
 
 <p align="center">
-    <img src="/src/utils/adguard/info.gif"/>
+    <img src="./src/utils/adguard/info.gif"/>
 </p>
